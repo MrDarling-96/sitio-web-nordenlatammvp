@@ -1,6 +1,8 @@
 @@ .. @@
          {/* Badge */}
          {product.badge && (
+         )
+         }
 -          <div className="absolute top-4 left-4 bg-gradient-to-r from-blue-500 to-blue-600 text-white px-3 py-1 rounded-full text-xs font-medium">
 +          <div className="absolute top-4 left-4 bg-gradient-to-r from-gray-800 to-black text-white px-3 py-1 rounded-full text-xs font-medium">
              {product.badge}
